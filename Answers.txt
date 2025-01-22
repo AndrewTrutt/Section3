@@ -1,0 +1,3 @@
+I've already worked about 5 hours just getting my Turing machine to work, so I won't finish the rest of the questions.
+
+My machine is slightly more optimized than the example given because it immediately skips to the next digit when multiplying by zero. Also, I use placeholders F and G to save my spot which is much more readable.
